@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_ʟᴇᴏɴᴀʀᴅ-ᴍᴅ is running on its latest vision_*`) 
+                 await repondre(`*_leonard md is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_ʟᴇᴏɴᴀʀᴅ-ᴍᴅ_*`) 
+                 await repondre(`*_leonard md_*`) 
 
    
 
