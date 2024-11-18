@@ -1,6 +1,5 @@
    ###  LEONARD MD WA BOT
-
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+   
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://files.catbox.moe/vmibx0.jpg">
@@ -9,7 +8,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.)](https://git.io/typing-svg)
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   </h1> 
 <p align="center">l introduce <b>LEONARD-MD</b>, a powerful simple WhatsApp bot </p>
@@ -60,7 +58,7 @@
 
 ## HOW TO DEPLOY LEONARD MD
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 ## 1.FIRST STEP 
 ## Fork Leonard Md Repo
@@ -79,20 +77,19 @@ star✨ my repo if you like this bot🤖
 
  GET SESSION ID BY
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
 
 
 ### QR SITE
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 - <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://Leonard-session.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -103,7 +100,7 @@ star✨ my repo if you like this bot🤖
 ### 3.THIRD STEP 
 1. If You Don't Have An Account On Heroku**
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
    <br>
     <a 
@@ -114,7 +111,7 @@ star✨ my repo if you like this bot🤖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
    <br>
     - <a href='https://dashboard.heroku.com/new?template=https://github.com/zedkazzozoranda091/LEONARD-MD/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
@@ -124,11 +121,11 @@ star✨ my repo if you like this bot🤖
 
 1. If you don't have an account in RENDER, create one and deploy.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
    <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 
 
