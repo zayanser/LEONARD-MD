@@ -34,26 +34,26 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-┏❏ʟᴇᴏɴᴀʀᴅ ᴍᴅ ᴡᴀ ᴄʀᴀsʜᴇʀ ᴍᴇɴᴜ
-❐ bug
-❐ crash
-❐ loccrash
-❐ amountbug <amount>
-❐ crashbug 25XXXX
-❐ pmbug 255XXXX
-❐ delaybug 255XXXX
-❐ trollybug 255XXXX
-❐ docubug 255XXXX
-❐ unlimitedbug 255XXXX
-❐ bombug 255XXXX
-❐ lagbug 255XXXX
-❐ gcbug <grouplink>
-❐ delaygcbug <grouplink>
-❐ trollygcbug <grouplink>
-❐ laggcbug <grouplink>
-❐ bomgcbug <grouplink>
-❐ unlimitedgcbug <grouplink>
-❐ docugcbug <grouplink>
+┏❏ʟᴇᴏɴᴀʀᴅ ᴍᴅ ᴡᴀ ᴄʀᴀsʜᴇʀ ᴍᴇɴᴜ 👽
+👽 bug
+👽 crash
+👽 loccrash
+👽 amountbug <amount>
+👽 crashbug 25XXXX
+👽 pmbug 255XXXX
+👽 delaybug 255XXXX
+👽 trollybug 255XXXX
+👽 docubug 255XXXX
+👽 unlimitedbug 255XXXX
+👽 bombug 255XXXX
+👽 lagbug 255XXXX
+👽 gcbug <grouplink>
+👽 delaygcbug <grouplink>
+👽 trollygcbug <grouplink>
+👽 laggcbug <grouplink>
+👽 bomgcbug <grouplink>
+👽 unlimitedgcbug <grouplink>
+👽 docugcbug <grouplink>
 
 > ⏲️ *TIME* : ${temps}
 > 📅 *DATE* : ${date} `;
