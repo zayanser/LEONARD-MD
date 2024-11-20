@@ -68,15 +68,15 @@ const date = moment().format('DD/MM/YYYY');
 
 ╔════➻⊷➻════──❂
 ║ ⦿━═━✤ *ʟᴇᴏɴᴀʀᴅ ᴍᴅ* ✤━═━⦿
-║ ┃◇ᴍᴏᴅᴇ: ${mode}
-║ ┃◇ᴜsᴇʀ : ${s.OWNER_NAME}
-║ ┃◇ʟɪʙʀᴀʀʏ : Baileys
-║ ┃◇ᴘʀᴇғɪx : ${s.PREFIXE}
-║ ┃◇ᴅᴀᴛᴇ : ${date}
-║ ┃◇ᴛɪᴍᴇ : ${temps}
-║ ┃◇ᴛᴏᴏʟs : ${cm.length}
-║ ┃◇ʀᴀᴍ : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-║ ┃◇ʜᴏsᴛ : ${os.platform()}
+║ ┃◈ᴍᴏᴅᴇ: ${mode}
+║ ┃◈ᴜsᴇʀ : ${s.OWNER_NAME}
+║ ┃◈ʟɪʙʀᴀʀʏ : Baileys
+║ ┃◈ᴘʀᴇғɪx : ${s.PREFIXE}
+║ ┃◈ᴅᴀᴛᴇ : ${date}
+║ ┃◈ᴛɪᴍᴇ : ${temps}
+║ ┃◈ᴛᴏᴏʟs : ${cm.length}
+║ ┃◈ʀᴀᴍ : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+║ ┃◈ʜᴏsᴛ : ${os.platform()}
 ║ ⦿━━━━═════━━━━⦿
 ╚════➻⊷➻════───❂\n\n`;
 
@@ -90,7 +90,7 @@ let menuMsg = `
 │╚════➳════╝
 ╰──━━✤━━────❍\n
 
-
+|◈ʟᴇᴏɴᴀʀᴅ ᴄᴏᴍɴᴅs
 `;
 
 
@@ -109,7 +109,7 @@ let menuMsg = `
         menuMsg += `
 ╚══━━━━════───➳
 ❍══════✣══════❍ 
-║ᴋɪɴɢ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ 👑║
+║✤ _*ᴋɪɴɢ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ 👑*_║
 ❍══════✣══════❍ 
 ✤━━━━━━━━━━━━━✤\n`
 
@@ -130,7 +130,7 @@ let menuMsg = `
  ┃╚══════════════╝
  ❍━━━━═══════━━━━❍ \n
 
-
+|◈ᴋᴇᴇᴘ ᴜsɪɴɢ ʟᴇᴏɴᴀʀᴅ ᴍᴅ 💥
 `;
 
 
