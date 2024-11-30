@@ -2,8 +2,8 @@
    
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://files.catbox.moe/nce85q.jpg">
- <img alt="LEONARD-MD" height="300" src="https://files.catbox.moe/nce85q.jpg">
+ <a href="https://files.catbox.moe/ll70qz.jpg">
+ <img alt="LEONARD-MD" height="300" src="https://files.catbox.moe/ll70qz.jpg">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.)](https://git.io/typing-svg)
 
@@ -159,7 +159,9 @@ The WhatsApp Bot LEONARD MD is released under the [MIT License](https://opensour
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**LEONARD TECH**](http://github.com/zedkazzozoranda091)- [**BONIPHACE TECH**](http://github.com/boniphace478)
+- [**LEONARD TECH**](http://github.com/zedkazzozoranda091)
+
+- [**BONIPHACE TECH**](http://github.com/boniphace478)
 
 ★im born to win😎. ©
      
